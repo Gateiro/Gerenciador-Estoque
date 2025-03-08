@@ -63,7 +63,3 @@ Desenvolver uma aplicação desktop para gerenciamento de estoque com interface 
 - Melhorar o design da interface gráfica.
 - Implementar testes automatizados para as principais funcionalidades.
 
-## Licença
-Este projeto é distribuído sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
-
-Para mais informações, visite o repositório oficial: [https://github.com/Gateiro/Gerenciador-Estoque](https://github.com/Gateiro/Gerenciador-Estoque)
