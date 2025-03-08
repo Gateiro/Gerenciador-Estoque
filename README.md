@@ -63,3 +63,4 @@ Desenvolver uma aplicação desktop para gerenciamento de estoque com interface 
 - Melhorar o design da interface gráfica.
 - Implementar testes automatizados para as principais funcionalidades.
 
+📌 Autores: Matheus, Thaiane, Maiara, João, Daniel e Bruno 
