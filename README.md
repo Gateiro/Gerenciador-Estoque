@@ -49,7 +49,7 @@ O sistema utiliza um banco de dados SQLite com as seguintes tabelas:
 - SQLite integrado ao projeto.  
 
 ### 🏃‍♂️ Passos para Executar o Projeto:  
-```bash
+
 # 1. Clone o repositório:
 git clone https://github.com/Gateiro/Gerenciador-Estoque.git
 
