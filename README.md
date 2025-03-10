@@ -50,14 +50,14 @@ O sistema utiliza um banco de dados SQLite com as seguintes tabelas:
 
 ### 🏃‍♂️ Passos para Executar o Projeto:  
 
-## 1. Clone o repositório:
+### 1. Clone o repositório:
 git clone https://github.com/Gateiro/Gerenciador-Estoque.git
 
-## 2. Abra o projeto no Visual Studio.
+### 2. Abra o projeto no Visual Studio.
 
-## 3. Restaure os pacotes NuGet, se necessário.
+### 3. Restaure os pacotes NuGet, se necessário.
 
-## 4. Compile e execute o projeto:
+### 4. Compile e execute o projeto:
 
 - Pressione F5 ou utilize o menu de execução.
 - 📊 Gerar relatórios:
