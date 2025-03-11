@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Microsoft.Data.SqLite;
 
 namespace GerenciadorEstoque
@@ -12,11 +8,11 @@ namespace GerenciadorEstoque
         public void CadastrarProduto(string nome, string codigo, double preco, int quantidade)
         {
             string connectionString = "Data Source=estoque.db;Version=3;";
-            using (var connection = new SQLiteConnection(connectionString))
+            using (var connection = new sqLiteConnection(connectionString))
             {
                 connection.Open();
                 string insertProduct = "INSERT INTO Produtos (Nome, Codigo, Preco, Quantidade) VALUES (@Nome, @Codigo, @Preco, @Quantidade)";
-                using (var command = new SQLiteCommand(insertProduct, connection))
+                using (var command = new sqLiteCommand(insertProduct, connection))
                 {
                     command.Parameters.AddWithValue("@Nome", nome);
                     command.Parameters.AddWithValue("@Codigo", codigo);

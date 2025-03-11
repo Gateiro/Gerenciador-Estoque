@@ -1,13 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Microsoft.Data.Sqlite;
 
 namespace GerenciadorEstoque
 {
-    internal class Class3
+    internal class alteracaoProduto
     {
         public void AlterarProduto(int id, double novoPreco, int novaQuantidade)
         {
@@ -16,7 +12,7 @@ namespace GerenciadorEstoque
             {
                 connection.Open();
                 string updateProduct = "UPDATE Produtos SET Preco = @Preco, Quantidade = @Quantidade WHERE Id = @Id";
-                using (var command = new SQLiteCommand(updateProduct, connection))
+                using (var command = new SqLiteCommand(updateProduct, connection))
                 {
                     command.Parameters.AddWithValue("@Preco", novoPreco);
                     command.Parameters.AddWithValue("@Quantidade", novaQuantidade);

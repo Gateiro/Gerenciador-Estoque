@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Microsoft.Data.SqLite;
 
 namespace GerenciadorEstoque
@@ -16,7 +12,7 @@ namespace GerenciadorEstoque
             {
                 connection.Open();
                 string deleteProduct = "DELETE FROM Produtos WHERE Id = @Id";
-                using (var command = new SQLiteCommand(deleteProduct, connection))
+                using (var command = new SqLiteCommand(deleteProduct, connection))
                 {
                     command.Parameters.AddWithValue("@Id", id);
                     command.ExecuteNonQuery();
