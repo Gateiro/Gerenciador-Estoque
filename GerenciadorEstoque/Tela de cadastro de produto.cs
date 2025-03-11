@@ -1,4 +1,7 @@
-namespace GerenciadorPedidos
+using System;
+using System.Windows.Forms;
+
+namespace Forms3
 {
     public partial class Form1 : Form
     {
@@ -7,29 +10,30 @@ namespace GerenciadorPedidos
             InitializeComponent();
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        private void btnSalvar_Click(object sender, EventArgs e)
         {
+            // Captura os valores digitados
+            string nome = txtNome.Text;
+            string codigo = txtCodigo.Text;
+            string preco = txtPreco.Text;
+            string quantidade = txtQuantidade.Text;
 
-        }
+            // Verifica se os campos foram preenchidos
+            if (string.IsNullOrWhiteSpace(nome) || string.IsNullOrWhiteSpace(codigo) ||
+                string.IsNullOrWhiteSpace(preco) || string.IsNullOrWhiteSpace(quantidade))
+            {
+                MessageBox.Show("Preencha todos os campos!", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
+            // Exibe mensagem de confirmação
+            MessageBox.Show($"Produto '{nome}' cadastrado com sucesso!", "Sucesso", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
-        }
-
-        private void textBox1_TextChanged_1(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label4_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label2_Click(object sender, EventArgs e)
-        {
-
+            // Limpa os campos após o cadastro
+            txtNome.Clear();
+            txtCodigo.Clear();
+            txtPreco.Clear();
+            txtQuantidade.Clear();
         }
     }
 }
