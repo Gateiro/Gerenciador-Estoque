@@ -6,7 +6,7 @@ class tabelas
     static void Main()
     {
         string connectionString = "Data Source=estoque.db;Version=3;";
-        using (var connection = new SQLiteConnection(connectionString))
+        using (var connection = new sqLiteConnection(connectionString))
         {
             connection.Open();
 
@@ -38,15 +38,15 @@ class tabelas
                     FOREIGN KEY (ProdutoId) REFERENCES Produtos(Id)
                 );";
 
-            using (var command = new SQLiteCommand(criarTabelaProdutos, connection))
+            using (var command = new SqLiteCommand(criarTabelaProdutos, connection))
             {
                 command.ExecuteNonQuery();
             }
-            using (var command = new SQLiteCommand(criarTabelaUsuarios, connection))
+            using (var command = new SqLiteCommand(criarTabelaUsuarios, connection))
             {
                 command.ExecuteNonQuery();
             }
-            using (var command = new SQLiteCommand(criarTabelaPedidos, connection))
+            using (var command = new SqLiteCommand(criarTabelaPedidos, connection))
             {
                 command.ExecuteNonQuery();
             }
