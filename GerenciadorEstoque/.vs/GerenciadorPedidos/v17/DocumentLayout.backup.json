@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{F7B481C9-86DD-4136-8711-21F738D46EA2}|GerenciadorPedidos.csproj|solutionrelative:vendedorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F7B481C9-86DD-4136-8711-21F738D46EA2}|GerenciadorPedidos.csproj|C:\\Users\\mathe\\OneDrive\\Documentos\\Github\\GerenciadorPedidosForms\\GerenciadorPedidos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7B481C9-86DD-4136-8711-21F738D46EA2}|GerenciadorPedidos.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7B481C9-86DD-4136-8711-21F738D46EA2}|GerenciadorPedidos.csproj|c:\\users\\mathe\\onedrive\\documentos\\github\\gerenciadorpedidosforms\\gerenciadorpedidos\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7B481C9-86DD-4136-8711-21F738D46EA2}|GerenciadorPedidos.csproj|solutionrelative:adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F7B481C9-86DD-4136-8711-21F738D46EA2}|GerenciadorPedidos.csproj|c:\\users\\mathe\\onedrive\\documentos\\github\\gerenciadorpedidosforms\\gerenciadorpedidos\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7B481C9-86DD-4136-8711-21F738D46EA2}|GerenciadorPedidos.csproj|solutionrelative:database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,14 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F7B481C9-86DD-4136-8711-21F738D46EA2}|GerenciadorPedidos.csproj|c:\\users\\mathe\\onedrive\\documentos\\github\\gerenciadorpedidosforms\\gerenciadorpedidos\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7B481C9-86DD-4136-8711-21F738D46EA2}|GerenciadorPedidos.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7B481C9-86DD-4136-8711-21F738D46EA2}|GerenciadorPedidos.csproj|c:\\users\\mathe\\onedrive\\documentos\\github\\gerenciadorpedidosforms\\gerenciadorpedidos\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7B481C9-86DD-4136-8711-21F738D46EA2}|GerenciadorPedidos.csproj|solutionrelative:adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F7B481C9-86DD-4136-8711-21F738D46EA2}|GerenciadorPedidos.csproj|c:\\users\\mathe\\onedrive\\documentos\\github\\gerenciadorpedidosforms\\gerenciadorpedidos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F7B481C9-86DD-4136-8711-21F738D46EA2}|GerenciadorPedidos.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,8 +34,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\Documentos\\Github\\GerenciadorPedidosForms\\GerenciadorPedidos\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\mathe\\OneDrive\\Documentos\\Github\\GerenciadorPedidosForms\\GerenciadorPedidos\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T19:04:55.539Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -44,27 +57,27 @@
               "RelativeDocumentMoniker": "VendedorForm.cs",
               "ToolTip": "C:\\Users\\mathe\\OneDrive\\Documentos\\Github\\GerenciadorPedidosForms\\GerenciadorPedidos\\VendedorForm.cs",
               "RelativeToolTip": "VendedorForm.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAcwCwAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T19:36:35.676Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "AdminForm.cs",
               "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\Documentos\\Github\\GerenciadorPedidosForms\\GerenciadorPedidos\\AdminForm.cs",
               "RelativeDocumentMoniker": "AdminForm.cs",
               "ToolTip": "C:\\Users\\mathe\\OneDrive\\Documentos\\Github\\GerenciadorPedidosForms\\GerenciadorPedidos\\AdminForm.cs",
               "RelativeToolTip": "AdminForm.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAmwCIAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwA0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T19:35:55.634Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "LoginForm.cs",
               "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\Documentos\\Github\\GerenciadorPedidosForms\\GerenciadorPedidos\\LoginForm.cs",
               "RelativeDocumentMoniker": "LoginForm.cs",
@@ -77,41 +90,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Database.cs",
               "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\Documentos\\Github\\GerenciadorPedidosForms\\GerenciadorPedidos\\Database.cs",
               "RelativeDocumentMoniker": "Database.cs",
               "ToolTip": "C:\\Users\\mathe\\OneDrive\\Documentos\\Github\\GerenciadorPedidosForms\\GerenciadorPedidos\\Database.cs",
               "RelativeToolTip": "Database.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T19:12:47.181Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\Documentos\\Github\\GerenciadorPedidosForms\\GerenciadorPedidos\\Usuario.cs",
               "RelativeDocumentMoniker": "Usuario.cs",
               "ToolTip": "C:\\Users\\mathe\\OneDrive\\Documentos\\Github\\GerenciadorPedidosForms\\GerenciadorPedidos\\Usuario.cs",
               "RelativeToolTip": "Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAIA6wBwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T19:06:45.265Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form1.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\mathe\\OneDrive\\Documentos\\Github\\GerenciadorPedidosForms\\GerenciadorPedidos\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\mathe\\OneDrive\\Documentos\\Github\\GerenciadorPedidosForms\\GerenciadorPedidos\\Form1.cs [Projeto]",
-              "RelativeToolTip": "Form1.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T19:04:55.539Z",
-              "EditorCaption": " [Projeto]"
             }
           ]
         }

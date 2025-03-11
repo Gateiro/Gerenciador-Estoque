@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vEz35mwMziU=",
+  "dgSpecHash": "KpazAn8p2+0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\mathe\\OneDrive\\Documentos\\Github\\GerenciadorPedidosForms\\GerenciadorPedidos\\GerenciadorPedidos.csproj",
+  "projectFilePath": "C:\\Users\\mathe\\OneDrive\\Documentos\\Github\\Gerenciador-Estoque\\GerenciadorEstoque\\GerenciadorPedidos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mathe\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.2\\microsoft.data.sqlite.core.9.0.2.nupkg.sha512",
     "C:\\Users\\mathe\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.4\\sqlitepclraw.bundle_e_sqlite3.2.0.4.nupkg.sha512",

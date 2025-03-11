@@ -260,11 +260,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mathe\\OneDrive\\Documentos\\Github\\GerenciadorPedidosForms\\GerenciadorPedidos\\GerenciadorPedidos.csproj",
+      "projectUniqueName": "C:\\Users\\mathe\\OneDrive\\Documentos\\Github\\Gerenciador-Estoque\\GerenciadorEstoque\\GerenciadorPedidos.csproj",
       "projectName": "GerenciadorPedidos",
-      "projectPath": "C:\\Users\\mathe\\OneDrive\\Documentos\\Github\\GerenciadorPedidosForms\\GerenciadorPedidos\\GerenciadorPedidos.csproj",
+      "projectPath": "C:\\Users\\mathe\\OneDrive\\Documentos\\Github\\Gerenciador-Estoque\\GerenciadorEstoque\\GerenciadorPedidos.csproj",
       "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mathe\\OneDrive\\Documentos\\Github\\GerenciadorPedidosForms\\GerenciadorPedidos\\obj\\",
+      "outputPath": "C:\\Users\\mathe\\OneDrive\\Documentos\\Github\\Gerenciador-Estoque\\GerenciadorEstoque\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

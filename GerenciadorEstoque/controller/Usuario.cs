@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace GerenciadorPedidos
+namespace GerenciadorPedidos.controller
 {
     public class Usuario
     {

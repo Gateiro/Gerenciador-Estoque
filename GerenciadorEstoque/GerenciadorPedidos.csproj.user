@@ -4,10 +4,19 @@
     <Compile Update="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="LoginForm.cs">
+    <Compile Update="view\LoginForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="VendedorForm.cs">
+    <Compile Update="view\Tela de cadastro de produto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\Tela de login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view\Tela de vendas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="controller\VendedorForm.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>

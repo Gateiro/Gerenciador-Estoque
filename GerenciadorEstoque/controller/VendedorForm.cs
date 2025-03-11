@@ -3,16 +3,16 @@ using System;
 using System.Data;
 using System.Windows.Forms;
 
-namespace GerenciadorPedidos
+namespace GerenciadorPedidos.controller
 {
 
     public partial class VendedorForm : Form
     {
         private readonly string connectionString = "Data Source=estoque.db;Version=3;";
         private ComboBox cmbProduto;
-        private TextBox txtQuantidade; 
-        private TextBox txtCPF; 
-        private TextBox txtCliente; 
+        private TextBox txtQuantidade;
+        private TextBox txtCPF;
+        private TextBox txtCliente;
         private Button btnVender;
 
         public VendedorForm()
@@ -23,12 +23,12 @@ namespace GerenciadorPedidos
 
         private void InitializeComponent()
         {
-            this.cmbProduto = new ComboBox();
-            this.txtQuantidade = new TextBox();
-            this.txtCPF = new TextBox();
-            this.txtCliente = new TextBox();
-            this.btnVender = new Button();
-            this.btnVender.Click += new EventHandler(this.btnVender_Click);
+            cmbProduto = new ComboBox();
+            txtQuantidade = new TextBox();
+            txtCPF = new TextBox();
+            txtCliente = new TextBox();
+            btnVender = new Button();
+            btnVender.Click += new EventHandler(btnVender_Click);
 
         }
 

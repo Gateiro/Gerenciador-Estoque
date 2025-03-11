@@ -1,6 +1,6 @@
 ﻿using Microsoft.Data.Sqlite;
 
-namespace GerenciadorPedidos
+namespace GerenciadorPedidos.view
 {
     public partial class LoginForm : Form
     {
@@ -18,11 +18,11 @@ namespace GerenciadorPedidos
 
         private void InitializeComponent()
         {
-            this.txtUsuario = new TextBox();
-            this.txtSenha = new TextBox();
-            this.cmbPerfil = new ComboBox();
-            this.btnLogin = new Button();
-            this.btnLogin.Click += new EventHandler(this.btnLogin_Click);
+            txtUsuario = new TextBox();
+            txtSenha = new TextBox();
+            cmbPerfil = new ComboBox();
+            btnLogin = new Button();
+            btnLogin.Click += new EventHandler(btnLogin_Click);
             // Adicione os controles ao formulário e defina suas propriedades
         }
 
@@ -46,7 +46,7 @@ namespace GerenciadorPedidos
                 {
                     if (perfil == "Admin") new AdminForm().Show();
                     else new VendedorForm().Show();
-                    this.Hide();
+                    Hide();
                 }
                 else MessageBox.Show("Credenciais inválidas!");
             }
