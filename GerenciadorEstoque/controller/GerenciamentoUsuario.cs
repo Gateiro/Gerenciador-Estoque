@@ -61,6 +61,56 @@ namespace GerenciadorPedidos.controller
                 }
             }
         }
+                public List<Venda> GerarRelatorioVendas()
+        {
+            var vendas = new List<Venda>();
+            using (var sqliteConn = new SqliteConnection(connectionString))
+            {
+                sqliteConn.Open();
+                string sql = "SELECT Id, ClienteCPF, ClienteNome, ProdutoId, QuantidadeVendida, Valor FROM Pedidos";
+                using (var cmd = new SqliteCommand(sql, sqliteConn))
+                {
+                    using (var reader = cmd.ExecuteReader())
+                    {
+                        while (reader.Read())
+                        {
+                            var venda = new Venda
+                            {
+                                Id = reader.GetInt32(0),
+                                ClienteCPF = reader.GetString(1),
+                                ClienteNome = reader.GetString(2),
+                                ProdutoId = reader.GetInt32(3),
+                                QuantidadeVendida = reader.GetInt32(4),
+                                Valor = reader.GetDouble(5)
+                            };
+                            vendas.Add(venda);
+                        }
+                    }
+                }
+            }
+            return vendas;
+        }
+    }
+
+    public class Usuario
+    {
+        public int Id { get; set; }
+        public string Nome { get; set; }
+        public string Perfil { get; set; }
+        public string Senha { get; set; }
+    }
+
+    public class Venda
+    {
+        public int Id { get; set; }
+        public string ClienteCPF { get; set; }
+        public string ClienteNome { get; set; }
+        public int ProdutoId { get; set; }
+        public int QuantidadeVendida { get; set; }
+        public double Valor { get; set; }
+    }
+}
+
     }
 }
 
