@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\danie\\Documents\\GitHub\\Gerenciador-Estoque\\GerenciadorEstoque\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F7B481C9-86DD-4136-8711-21F738D46EA2}|GerenciadorPedidos.csproj|C:\\Users\\danie\\Documents\\GitHub\\Gerenciador-Estoque\\GerenciadorEstoque\\view\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F7B481C9-86DD-4136-8711-21F738D46EA2}|GerenciadorPedidos.csproj|solutionrelative:view\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F7B481C9-86DD-4136-8711-21F738D46EA2}|GerenciadorPedidos.csproj|c:\\users\\danie\\documents\\github\\gerenciador-estoque\\gerenciadorestoque\\model\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7B481C9-86DD-4136-8711-21F738D46EA2}|GerenciadorPedidos.csproj|solutionrelative:model\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7B481C9-86DD-4136-8711-21F738D46EA2}|GerenciadorPedidos.csproj|c:\\users\\danie\\documents\\github\\gerenciador-estoque\\gerenciadorestoque\\controller\\vendedorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7B481C9-86DD-4136-8711-21F738D46EA2}|GerenciadorPedidos.csproj|solutionrelative:controller\\vendedorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F7B481C9-86DD-4136-8711-21F738D46EA2}|GerenciadorPedidos.csproj|c:\\users\\danie\\documents\\github\\gerenciador-estoque\\gerenciadorestoque\\view\\tela de cadastro de produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7B481C9-86DD-4136-8711-21F738D46EA2}|GerenciadorPedidos.csproj|solutionrelative:view\\tela de cadastro de produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7B481C9-86DD-4136-8711-21F738D46EA2}|GerenciadorPedidos.csproj|c:\\users\\danie\\documents\\github\\gerenciador-estoque\\gerenciadorestoque\\controller\\gerenciamentousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7B481C9-86DD-4136-8711-21F738D46EA2}|GerenciadorPedidos.csproj|solutionrelative:controller\\gerenciamentousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F7B481C9-86DD-4136-8711-21F738D46EA2}|GerenciadorPedidos.csproj|c:\\users\\danie\\documents\\github\\gerenciador-estoque\\gerenciadorestoque\\controller\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F7B481C9-86DD-4136-8711-21F738D46EA2}|GerenciadorPedidos.csproj|solutionrelative:controller\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7B481C9-86DD-4136-8711-21F738D46EA2}|GerenciadorPedidos.csproj|c:\\users\\danie\\documents\\github\\gerenciador-estoque\\gerenciadorestoque\\controller\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7B481C9-86DD-4136-8711-21F738D46EA2}|GerenciadorPedidos.csproj|solutionrelative:controller\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F7B481C9-86DD-4136-8711-21F738D46EA2}|GerenciadorPedidos.csproj|C:\\Users\\danie\\Documents\\GitHub\\Gerenciador-Estoque\\GerenciadorEstoque\\view\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7B481C9-86DD-4136-8711-21F738D46EA2}|GerenciadorPedidos.csproj|solutionrelative:view\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F7B481C9-86DD-4136-8711-21F738D46EA2}|GerenciadorPedidos.csproj|c:\\users\\danie\\documents\\github\\gerenciador-estoque\\gerenciadorestoque\\model\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F7B481C9-86DD-4136-8711-21F738D46EA2}|GerenciadorPedidos.csproj|solutionrelative:model\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F7B481C9-86DD-4136-8711-21F738D46EA2}|GerenciadorPedidos.csproj|C:\\Users\\danie\\Documents\\GitHub\\Gerenciador-Estoque\\GerenciadorEstoque\\view\\tela de login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7B481C9-86DD-4136-8711-21F738D46EA2}|GerenciadorPedidos.csproj|solutionrelative:view\\tela de login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7B481C9-86DD-4136-8711-21F738D46EA2}|GerenciadorPedidos.csproj|c:\\users\\danie\\documents\\github\\gerenciador-estoque\\gerenciadorestoque\\controller\\vendedorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7B481C9-86DD-4136-8711-21F738D46EA2}|GerenciadorPedidos.csproj|solutionrelative:controller\\vendedorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7B481C9-86DD-4136-8711-21F738D46EA2}|GerenciadorPedidos.csproj|c:\\users\\danie\\documents\\github\\gerenciador-estoque\\gerenciadorestoque\\controller\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7B481C9-86DD-4136-8711-21F738D46EA2}|GerenciadorPedidos.csproj|solutionrelative:controller\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F7B481C9-86DD-4136-8711-21F738D46EA2}|GerenciadorPedidos.csproj|c:\\users\\danie\\documents\\github\\gerenciador-estoque\\gerenciadorestoque\\view\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,23 +46,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Tela de cadastro de produto.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\danie\\Documents\\GitHub\\Gerenciador-Estoque\\GerenciadorEstoque\\view\\Tela de cadastro de produto.cs",
+              "RelativeDocumentMoniker": "view\\Tela de cadastro de produto.cs",
+              "ToolTip": "C:\\Users\\danie\\Documents\\GitHub\\Gerenciador-Estoque\\GerenciadorEstoque\\view\\Tela de cadastro de produto.cs [Projeto]*",
+              "RelativeToolTip": "view\\Tela de cadastro de produto.cs [Projeto]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:30:34.741Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GerenciamentoUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Documents\\GitHub\\Gerenciador-Estoque\\GerenciadorEstoque\\controller\\GerenciamentoUsuario.cs",
+              "RelativeDocumentMoniker": "controller\\GerenciamentoUsuario.cs",
+              "ToolTip": "C:\\Users\\danie\\Documents\\GitHub\\Gerenciador-Estoque\\GerenciadorEstoque\\controller\\GerenciamentoUsuario.cs",
+              "RelativeToolTip": "controller\\GerenciamentoUsuario.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA9wCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T18:07:53.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "LoginForm.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\danie\\Documents\\GitHub\\Gerenciador-Estoque\\GerenciadorEstoque\\view\\LoginForm.cs",
               "RelativeDocumentMoniker": "view\\LoginForm.cs",
               "ToolTip": "C:\\Users\\danie\\Documents\\GitHub\\Gerenciador-Estoque\\GerenciadorEstoque\\view\\LoginForm.cs [Projeto]",
               "RelativeToolTip": "view\\LoginForm.cs [Projeto]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T15:02:08.011Z",
-              "EditorCaption": " [Projeto]"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-11T15:02:08.011Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "VendedorForm.cs",
               "DocumentMoniker": "C:\\Users\\danie\\Documents\\GitHub\\Gerenciador-Estoque\\GerenciadorEstoque\\controller\\VendedorForm.cs",
               "RelativeDocumentMoniker": "controller\\VendedorForm.cs",
@@ -58,12 +94,11 @@
               "RelativeToolTip": "controller\\VendedorForm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T19:36:35.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T19:36:35.676Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "AdminForm.cs",
               "DocumentMoniker": "C:\\Users\\danie\\Documents\\GitHub\\Gerenciador-Estoque\\GerenciadorEstoque\\controller\\AdminForm.cs",
               "RelativeDocumentMoniker": "controller\\AdminForm.cs",
@@ -75,7 +110,31 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Documents\\GitHub\\Gerenciador-Estoque\\GerenciadorEstoque\\model\\Database.cs",
+              "RelativeDocumentMoniker": "model\\Database.cs",
+              "ToolTip": "C:\\Users\\danie\\Documents\\GitHub\\Gerenciador-Estoque\\GerenciadorEstoque\\model\\Database.cs",
+              "RelativeToolTip": "model\\Database.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwBwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T19:12:47.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Tela de login.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\danie\\Documents\\GitHub\\Gerenciador-Estoque\\GerenciadorEstoque\\view\\Tela de login.cs",
+              "RelativeDocumentMoniker": "view\\Tela de login.cs",
+              "ToolTip": "C:\\Users\\danie\\Documents\\GitHub\\Gerenciador-Estoque\\GerenciadorEstoque\\view\\Tela de login.cs [Projeto]",
+              "RelativeToolTip": "view\\Tela de login.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-11T18:00:32.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "LoginForm.cs",
               "DocumentMoniker": "C:\\Users\\danie\\Documents\\GitHub\\Gerenciador-Estoque\\GerenciadorEstoque\\view\\LoginForm.cs",
               "RelativeDocumentMoniker": "view\\LoginForm.cs",
@@ -87,28 +146,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Database.cs",
-              "DocumentMoniker": "C:\\Users\\danie\\Documents\\GitHub\\Gerenciador-Estoque\\GerenciadorEstoque\\model\\Database.cs",
-              "RelativeDocumentMoniker": "model\\Database.cs",
-              "ToolTip": "C:\\Users\\danie\\Documents\\GitHub\\Gerenciador-Estoque\\GerenciadorEstoque\\model\\Database.cs",
-              "RelativeToolTip": "model\\Database.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T19:12:47.181Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\danie\\Documents\\GitHub\\Gerenciador-Estoque\\GerenciadorEstoque\\controller\\Usuario.cs",
               "RelativeDocumentMoniker": "controller\\Usuario.cs",
               "ToolTip": "C:\\Users\\danie\\Documents\\GitHub\\Gerenciador-Estoque\\GerenciadorEstoque\\controller\\Usuario.cs",
               "RelativeToolTip": "controller\\Usuario.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAjwBwAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T19:06:45.265Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-07T19:06:45.265Z"
             }
           ]
         }
